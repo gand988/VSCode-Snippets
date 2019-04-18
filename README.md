@@ -14,6 +14,3 @@ Created for Skat, with this snipet you enter the width & height that you need
 
 ### Placeholder500x200
 Just a random one.
-
-### Future plan
-See if people want the <img> tag and maybe add the Class attribute.
