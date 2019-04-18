@@ -1,0 +1,13 @@
+{
+	"Default Placeholder":{
+		"scope": "html, css, javascript",
+		"prefix": "placeholder",
+		"body": [
+			"<img src=\"https://via.placeholder.com/350x150\" class=\"${1}\">${0}"
+		],
+		"description": "Add a custom placeholder.com + Class."
+	}
+}
+
+// created by Matteo 'Gand988' Zanda
+// https://github.com/gand988/VSCode-Snippets

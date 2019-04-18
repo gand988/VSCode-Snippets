@@ -1,0 +1,13 @@
+{
+	"Custom Placeholder":{
+		"scope": "html, css, javascript",
+		"prefix": "placeholderCustom",
+		"body": [
+			"<img src=\"https://via.placeholder.com/${1:width}x${2:height}\" class=\"${3}\">${0}"
+		],
+		"description": "add a custom placeholder.com (tab to swith between width, height, class)."
+	}
+}
+
+// created by Matteo 'Gand988' Zanda
+// https://github.com/gand988/VSCode-Snippets
